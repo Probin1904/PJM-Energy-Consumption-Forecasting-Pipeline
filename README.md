@@ -85,4 +85,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
 ## 📄 License
 
 This project uses the publicly available PJM Hourly Energy Consumption dataset. Check the original [Kaggle dataset page](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption) for licensing details.
-
